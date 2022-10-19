@@ -19,7 +19,7 @@ What did we updated? Let me tell you! Part of my refactoring was going into the 
 
 ## Screenshots
 
-![](css/images/horiseon1.png)
+![](assets/images/horiseon1.png)
 
 
 ## License
