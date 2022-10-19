@@ -5,14 +5,14 @@
     padding: 0;
     margin: 0;
 }
-/*End of global*/
+/*End global*/
 
 
 
 
 
 
-/* Beginning of the nav bar*/
+/* nav bar*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,14 +50,14 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/* End of nav bar CSS*/
+/* End nav bar*/
 
 
 
 
 
 
-/* Beginning of middle horizontal content CSS */
+/* Intro middle horizontal content */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -127,14 +127,14 @@ a {
     display: inline-block;
     margin-left: 20px;
 }
-/* End of middle horizontal content CSS */
+/* End middle horizontal content */
 
 
 
 
 
 
-/* Beginning of middle verticle content CSS*/
+/* Intro middle verticle content */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -193,13 +193,13 @@ a {
     margin: 10px auto;
     max-width: 150px;
 }
-/* End of middle verticle content CSS */
+/* End middle verticle content*/
 
 
 
 
 
-/*Beginning of copyright CSS */
+/*Intro of copyright */
 .footer {
     padding: 30px;
     clear: both;
@@ -210,21 +210,21 @@ a {
 .footer h2 {
     font-size: 20px;
 }
-/* End of copyright CSS*/
+/* End of copyright */
 
 
 
 
-/* Beginning of paragraph font size CSS */
+/* Intro of paragraph font size */
 p {
     font-size: 16px;
 }
-/* End of paragraph font size CSS */
+/* End paragraph font size */
 
 
 
 
-/* Jumbotron photo CSS */
+/* Hero photo */
 .hero {
     height: 800px;
     width: 100%;
@@ -233,13 +233,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* End jumbotron photo CSS */
+/* End Hero photo */
 
 
 
 
-/* Color of website background CSS */
+/* Website background */
 body {
     background-color: #d9dcd6;
 }
-/* End of website background color CSS */
+/* End website background */
