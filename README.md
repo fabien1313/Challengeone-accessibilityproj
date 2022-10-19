@@ -17,6 +17,10 @@ How does this webpage now have accessibility? Tags like `<header>, <footer>, <fo
 
 What did we updated? Let me tell you! Part of my refactoring was going into the original code and switching out the non-semantic syntax `(changing the <div> to <section>, and <header>` and replacing it with semantic syntax. Once that was done I restructured the index file in sequential order and organized the code with comments that go along with the consolidation of the CSS file following the exact same sequential order. From there I consolidated the CSS, reducing the amount of code making it a cleaner and much more optimal experience for the next developer without altering the original functionality of the webpage.
 
+## Screenshots
+
+![](css/images/horiseon1.png)
+
 
 ## License
 
