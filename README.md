@@ -19,9 +19,9 @@ What did we updated? Let me tell you! Part of my refactoring was going into the 
 
 ## Screenshots
 
-![](assets/images/horiseon1.png)
+![](assets/images/Horiseon1.png)
 ![](assets/images/horiseon2.png)
-![](assets/images/horiseon3.png)
+![](assets/images/Horiseon3.png)
 
 
 ## License
